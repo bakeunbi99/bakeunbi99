@@ -35,7 +35,6 @@
 
 | 프로젝트 | 설명 | 기간 | 링크 |
 |----------|------|------|------|
-| LALA BOUTIQUE | 프로젝트 리팩토링 | 26.03.03 ~ ing | [LALA BOUTIQUE](https://github.com/bakeunbi99/Why-Them-Refactoring) |
 | LALA BOUTIQUE | 쇼핑몰 팀프로젝트 | 26.02.09 ~ 26.02.25 (2주) | |
 
 
