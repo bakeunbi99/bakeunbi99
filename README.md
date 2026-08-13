@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-🌱 Java & Spring Boot 기반의 백엔드 개발자
+🌱 Java & Spring Boot 기반의 백엔드 개발자  
 ✍️ 목표: 클린 코드와 테스트 중심 개발(TDD)을 통해 유지보수하기 쉬운 안정적인 서비스를 만드는 것
 
 
